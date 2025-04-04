@@ -1,0 +1,1 @@
+# SQL-Table-Management-Deleting-Rows-and-Columns
